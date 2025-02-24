@@ -1,0 +1,27 @@
+// Rooms and room cards
+Room, Lobby, L
+Room, Pool Table, P
+Room, Laundry, Y
+Room, Kitchen, K
+Room, Music Room, M
+Room, Elevator, E
+Room, Bike Lockers, B
+Room, Dorm, D
+Room, Stairwell, S
+// Other spaces on board
+Space, Unused, X
+Space, Walkway, W
+//Players(Format: Human/Computer, Name, Color, Location)
+Human, Mable the Moose, green, 0 16
+Computer, RA Michael, yellow, 7 0
+Computer, Desk Assistant, red, 25 6
+Computer, Custodian, blue, 18 24
+Computer, Resident Baiza, orange, 25 17
+Computer, Blaster, gray, 6 24
+//Weapons
+Weapon, Pool Stick
+Weapon, Frying Pan
+Weapon, Bleach
+Weapon, Cable
+Weapon, Piano
+Weapon, Bike
